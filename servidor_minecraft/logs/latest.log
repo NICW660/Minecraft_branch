@@ -2360,3 +2360,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Aug2024 20:31:36.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was shot by Skeleton
 [20Aug2024 20:31:36.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [Your First Grave]
 [20Aug2024 20:31:36.495] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 20:31:38.714] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 20:32:05.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Wild Rat
+[20Aug2024 20:32:05.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [Your First Grave]
+[20Aug2024 20:32:05.371] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 20:32:09.013] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 20:32:15.569] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[20Aug2024 20:32:51.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has reached the goal [Here They Come]
+[20Aug2024 20:33:38.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was shot by Skeleton
+[20Aug2024 20:33:38.321] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 20:33:39.842] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 20:36:53.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was shot by Skeleton
+[20Aug2024 20:36:53.173] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 20:36:56.695] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 20:37:15.568] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[20Aug2024 20:37:30.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was shot by Skeleton
+[20Aug2024 20:37:30.830] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 20:37:32.870] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 20:37:33.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [Not Today, Thank You]
+[20Aug2024 20:37:39.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [Knowledge of Death]
+[20Aug2024 20:37:39.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has reached the goal [Chain Death]
+[20Aug2024 20:37:39.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was shot by Skeleton
+[20Aug2024 20:37:39.421] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 20:37:41.009] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 20:37:54.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has reached the goal [Here They Come]
+[20Aug2024 20:38:01.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [Not Today, Thank You]
+[20Aug2024 20:38:04.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [Knowledge raises the soul]
+[20Aug2024 20:40:05.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ hit the ground too hard
+[20Aug2024 20:40:05.287] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 20:40:06.521] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 20:40:50.389] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:41:38.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHatGeezer: Teleported TheHatGeezer to Nicckt_]
