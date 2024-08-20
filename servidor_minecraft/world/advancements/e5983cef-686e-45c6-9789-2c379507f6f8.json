@@ -91,10 +91,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-08-20 21:11:02 +0000",
       "minecraft:taiga": "2024-08-20 20:44:15 +0000",
       "minecraft:river": "2024-08-20 20:41:21 +0000",
       "minecraft:stony_shore": "2024-08-20 12:07:11 +0000",
       "minecraft:forest": "2024-08-20 12:08:57 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-08-20 21:09:48 +0000",
       "minecraft:plains": "2024-08-20 12:08:55 +0000"
     },
     "done": false
@@ -180,6 +182,12 @@
     },
     "done": false
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-08-20 21:21:27 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-08-20 20:37:57 +0000"
@@ -219,6 +227,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-08-20 20:50:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-08-20 21:21:41 +0000"
     },
     "done": true
   },
@@ -275,7 +289,14 @@
       "cooked_cod": "2024-08-20 20:44:01 +0000",
       "pumpkin_pie": "2024-08-20 21:05:32 +0000",
       "bread": "2024-08-20 20:22:42 +0000",
-      "rotten_flesh": "2024-08-20 20:45:30 +0000"
+      "rotten_flesh": "2024-08-20 20:45:30 +0000",
+      "carrot": "2024-08-20 21:21:58 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2024-08-20 21:15:38 +0000"
     },
     "done": false
   },

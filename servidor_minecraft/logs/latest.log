@@ -2525,3 +2525,65 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Aug2024 21:11:49.083] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
 [20Aug2024 21:11:50.311] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
 [20Aug2024 21:12:03.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHatGeezer: Teleported TheHatGeezer to Nicckt_]
+[20Aug2024 21:12:14.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was frozen by Ice Dragon
+[20Aug2024 21:12:14.906] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:12:15.590] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[20Aug2024 21:12:16.242] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:12:21.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported Nicckt_ to TheHatGeezer]
+[20Aug2024 21:12:38.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Ice Dragon
+[20Aug2024 21:12:38.334] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:12:39.835] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:12:42.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Ice Dragon
+[20Aug2024 21:12:42.372] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:12:44.314] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:13:06.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Ice Dragon
+[20Aug2024 21:13:06.273] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:13:07.492] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:13:13.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was frozen by Ice Dragon
+[20Aug2024 21:13:13.823] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:13:15.482] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:13:25.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:13:27.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Ice Dragon
+[20Aug2024 21:13:27.572] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:13:29.123] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:13:46.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was frozen by Ice Dragon
+[20Aug2024 21:13:46.383] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:13:47.907] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:13:55.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Ice Dragon
+[20Aug2024 21:13:55.195] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:13:56.757] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:14:26.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was frozen by Ice Dragon
+[20Aug2024 21:14:26.836] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:14:27.988] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:14:31.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Ice Dragon
+[20Aug2024 21:14:31.627] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:14:33.175] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:14:46.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Ice Dragon
+[20Aug2024 21:14:46.123] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:14:47.668] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:15:15.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Ice Dragon
+[20Aug2024 21:15:15.073] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:15:16.661] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:15:20.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was frozen by Ice Dragon
+[20Aug2024 21:15:20.150] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:15:21.668] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:15:44.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:17:15.569] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[20Aug2024 21:17:25.103] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[20Aug2024 21:17:25.104] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[20Aug2024 21:17:25.105] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[20Aug2024 21:18:38.385] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[20Aug2024 21:18:38.387] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[20Aug2024 21:18:38.388] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[20Aug2024 21:18:38.389] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[20Aug2024 21:18:38.390] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[20Aug2024 21:19:01.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:21:15.745] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:21:27.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has reached the goal [Bone Crusher]
+[20Aug2024 21:21:28.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHatGeezer: Teleported TheHatGeezer to Nicckt_]
+[20Aug2024 21:21:41.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [Knowledge raises the soul]
+[20Aug2024 21:22:15.572] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[20Aug2024 21:22:20.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was shot by Huntsman
+[20Aug2024 21:22:20.334] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:22:22.033] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:22:22.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
