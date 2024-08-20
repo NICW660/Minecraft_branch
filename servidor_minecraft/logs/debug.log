@@ -13852,3 +13852,171 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Aug2024 21:22:20.334] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
 [20Aug2024 21:22:22.033] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
 [20Aug2024 21:22:22.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:22:25.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHatGeezer: Teleported TheHatGeezer to Nicckt_]
+[20Aug2024 21:22:27.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has reached the goal [Hunted]
+[20Aug2024 21:22:38.432] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:23:08.749] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Aug2024 21:23:08.752] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Aug2024 21:23:28.546] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:24:03.381] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:24:04.077] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:24:04.771] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:24:05.367] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:24:17.041] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[20Aug2024 21:24:25.324] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[20Aug2024 21:24:48.378] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[20Aug2024 21:24:48.379] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[20Aug2024 21:24:48.379] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[20Aug2024 21:24:48.379] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[20Aug2024 21:24:52.579] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:24:56.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Spectator Mode]
+[20Aug2024 21:24:59.729] [Worker-Main-56/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[20Aug2024 21:24:59.730] [Worker-Main-56/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[20Aug2024 21:24:59.730] [Worker-Main-56/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[20Aug2024 21:24:59.732] [Worker-Main-56/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[20Aug2024 21:24:59.733] [Worker-Main-56/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[20Aug2024 21:24:59.733] [Worker-Main-56/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[20Aug2024 21:24:59.733] [Worker-Main-56/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[20Aug2024 21:24:59.733] [Worker-Main-56/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[20Aug2024 21:24:59.733] [Worker-Main-56/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[20Aug2024 21:24:59.733] [Worker-Main-56/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[20Aug2024 21:25:02.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has reached the goal [The Cave That Time Forgot]
+[20Aug2024 21:25:02.887] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1584, y=63, z=64}
+[20Aug2024 21:25:02.890] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1561, y=51, z=101}
+[20Aug2024 21:25:02.936] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1584, y=63, z=64}
+[20Aug2024 21:25:02.938] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1581, y=58, z=96}
+[20Aug2024 21:25:02.938] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1561, y=51, z=101}
+[20Aug2024 21:25:03.136] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1584, y=63, z=64}
+[20Aug2024 21:25:03.137] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1561, y=51, z=101}
+[20Aug2024 21:25:08.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported TheHatGeezer to Nicckt_]
+[20Aug2024 21:25:08.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has reached the goal [The Cave That Time Forgot]
+[20Aug2024 21:25:13.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Survival Mode]
+[20Aug2024 21:25:32.607] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1584, y=63, z=64}
+[20Aug2024 21:25:32.612] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1581, y=58, z=96}
+[20Aug2024 21:25:32.612] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1561, y=51, z=101}
+[20Aug2024 21:25:32.615] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1570, y=44, z=84}
+[20Aug2024 21:25:32.615] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1583, y=44, z=78}
+[20Aug2024 21:25:32.615] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1583, y=44, z=91}
+[20Aug2024 21:25:32.653] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1584, y=63, z=64}
+[20Aug2024 21:25:32.655] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1561, y=51, z=101}
+[20Aug2024 21:25:32.852] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1584, y=63, z=64}
+[20Aug2024 21:25:32.856] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1561, y=51, z=101}
+[20Aug2024 21:25:32.858] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1590, y=44, z=78}
+[20Aug2024 21:25:35.785] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:25:37.299] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1584, y=63, z=64}
+[20Aug2024 21:25:37.304] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1561, y=51, z=101}
+[20Aug2024 21:25:37.478] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1584, y=63, z=64}
+[20Aug2024 21:25:37.484] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1561, y=51, z=101}
+[20Aug2024 21:25:37.486] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1570, y=44, z=84}
+[20Aug2024 21:25:37.487] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1583, y=44, z=78}
+[20Aug2024 21:25:37.487] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1577, y=44, z=71}
+[20Aug2024 21:25:37.487] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1583, y=44, z=64}
+[20Aug2024 21:25:37.488] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1570, y=44, z=70}
+[20Aug2024 21:25:37.634] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1584, y=63, z=64}
+[20Aug2024 21:25:37.636] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1561, y=51, z=101}
+[20Aug2024 21:25:37.637] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1590, y=44, z=78}
+[20Aug2024 21:25:54.028] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:26:17.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:26:23.175] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:26:25.302] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:26:25.304] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:26:25.440] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:26:25.440] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:26:25.440] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:26:25.442] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:26:25.583] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:26:25.946] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:26:25.949] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:26:33.658] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:26:35.132] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:26:35.298] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:26:35.458] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:26:35.460] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:26:43.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported Nicckt_ to TheHatGeezer]
+[20Aug2024 21:26:45.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[20Aug2024 21:26:46.680] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:26:49.939] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/38488, l='ServerLevel[world]', x=1308.55, y=73.00, z=51.55] died, message: 'Butcher burned to death'
+[20Aug2024 21:26:57.679] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:27:11.422] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38489, l='ServerLevel[world]', x=1300.62, y=70.92, z=48.61] died, message: 'Villager tried to swim in lava'
+[20Aug2024 21:27:17.595] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Aug2024 21:27:17.595] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[20Aug2024 21:27:17.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2024 21:27:17.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Aug2024 21:27:19.596] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:27:24.154] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:27:51.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Creative Mode]
+[20Aug2024 21:27:59.947] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:28:46.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Oretoise
+[20Aug2024 21:28:46.125] [Server thread/DEBUG] [tombstone/]: A new grave of the player TheHatGeezer was created at position [x:1340, y:-21, z:205, dim:minecraft:overworld]
+[20Aug2024 21:28:46.168] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:28:47.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Spectator Mode]
+[20Aug2024 21:28:50.107] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:29:07.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [Tavern Village]
+[20Aug2024 21:29:13.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported TheHatGeezer to Nicckt_]
+[20Aug2024 21:29:14.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [Tavern Village]
+[20Aug2024 21:29:41.496] [Worker-Main-57/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[20Aug2024 21:29:41.497] [Worker-Main-57/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[20Aug2024 21:29:42.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[20Aug2024 21:29:47.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Clay Golem
+[20Aug2024 21:29:47.087] [Server thread/DEBUG] [tombstone/]: A new grave of the player TheHatGeezer was created at position [x:1235, y:64, z:48, dim:minecraft:overworld]
+[20Aug2024 21:29:47.112] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:29:49.117] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:29:51.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported TheHatGeezer to Nicckt_]
+[20Aug2024 21:29:53.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:30:02.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[20Aug2024 21:30:21.149] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:30:22.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4566ms or 91 ticks behind
+[20Aug2024 21:30:25.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported TheHatGeezer to Nicckt_]
+[20Aug2024 21:30:25.712] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:30:25.713] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:30:25.722] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:30:25.761] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:30:26.138] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:30:26.139] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:30:26.141] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:30:26.141] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:30:26.271] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:30:26.274] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:30:26.405] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:30:26.522] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:30:26.523] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:30:26.906] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:30:29.244] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:30:29.246] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:30:29.331] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:30:29.434] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:30:29.437] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 21:30:47.045] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:30:47.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [Broken Parts II]
+[20Aug2024 21:30:49.064] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:30:50.245] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:31:05.188] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:31:05.191] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:31:05.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[20Aug2024 21:31:08.817] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:31:28.024] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:31:28.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[20Aug2024 21:31:57.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Creative Mode]
+[20Aug2024 21:31:57.166] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:32:06.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[20Aug2024 21:32:23.874] [Worker-Main-57/DEBUG] [mixin/]: Mixing NetherFortressPiecesMixin from quark.mixins.json into net.minecraft.world.level.levelgen.structure.structures.NetherFortressPieces
+[20Aug2024 21:32:26.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [Incendium]
+[20Aug2024 21:32:26.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [We Need to Go Deeper]
+[20Aug2024 21:32:26.599] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:32:27.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6073ms or 121 ticks behind
+[20Aug2024 21:32:32.673] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[20Aug2024 21:32:32.712] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[20Aug2024 21:32:32.712] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[20Aug2024 21:32:32.712] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[20Aug2024 21:32:32.712] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[20Aug2024 21:32:32.713] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[20Aug2024 21:32:32.713] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[20Aug2024 21:32:32.713] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[20Aug2024 21:32:36.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [Incendium]
+[20Aug2024 21:32:36.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [We Need to Go Deeper]
+[20Aug2024 21:32:36.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported TheHatGeezer to Nicckt_]
+[20Aug2024 21:32:37.122] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:32:38.570] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Aug2024 21:32:38.570] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[20Aug2024 21:32:39.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2024 21:32:39.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
