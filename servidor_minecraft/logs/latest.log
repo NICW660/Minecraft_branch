@@ -2455,3 +2455,73 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Aug2024 21:01:48.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
 [20Aug2024 21:01:49.577] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
 [20Aug2024 21:01:53.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported Nicckt_ to TheHatGeezer]
+[20Aug2024 21:02:15.571] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[20Aug2024 21:02:18.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Zombie
+[20Aug2024 21:02:18.535] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:02:20.076] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:02:22.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHatGeezer: Teleported TheHatGeezer to Nicckt_]
+[20Aug2024 21:02:49.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Zombie
+[20Aug2024 21:02:49.975] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:02:51.174] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:02:55.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Zombie
+[20Aug2024 21:02:55.595] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:02:57.148] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:03:09.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Zombie
+[20Aug2024 21:03:09.570] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:03:11.020] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:03:31.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Zombie
+[20Aug2024 21:03:31.026] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:03:32.314] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:03:36.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Zombie
+[20Aug2024 21:03:36.871] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:03:38.026] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:03:47.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Creative Mode]
+[20Aug2024 21:04:06.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Survival Mode]
+[20Aug2024 21:04:26.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHatGeezer: Set own game mode to Creative Mode]
+[20Aug2024 21:05:17.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has completed the challenge [Ancient Fishing Rod]
+[20Aug2024 21:05:17.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [A Time for Misadventure]
+[20Aug2024 21:05:17.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has reached the goal [Enchanted for Misadventure]
+[20Aug2024 21:05:49.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Zombie
+[20Aug2024 21:05:49.874] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:05:51.136] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:06:43.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHatGeezer: Set own game mode to Survival Mode]
+[20Aug2024 21:06:59.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:07:15.593] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[20Aug2024 21:07:27.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Zombie
+[20Aug2024 21:07:27.580] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:07:28.776] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:07:43.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [Ashes 'n Bones]
+[20Aug2024 21:07:49.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Rat Ghost
+[20Aug2024 21:07:49.325] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:07:53.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Spectator Mode]
+[20Aug2024 21:07:56.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [The Most Useful Key]
+[20Aug2024 21:07:56.748] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:08:04.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has reached the goal [A Fast Comeback]
+[20Aug2024 21:08:07.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has reached the goal [Easy Opening]
+[20Aug2024 21:08:14.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Zombie
+[20Aug2024 21:08:14.739] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:08:16.269] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:08:16.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Survival Mode]
+[20Aug2024 21:08:25.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported TheHatGeezer to Nicckt_]
+[20Aug2024 21:09:57.652] [Worker-Main-57/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[20Aug2024 21:09:57.653] [Worker-Main-57/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[20Aug2024 21:09:57.654] [Worker-Main-57/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[20Aug2024 21:09:57.654] [Worker-Main-57/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[20Aug2024 21:09:59.789] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[20Aug2024 21:09:59.792] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[20Aug2024 21:09:59.792] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[20Aug2024 21:09:59.793] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[20Aug2024 21:09:59.793] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[20Aug2024 21:10:19.656] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:10:21.241] [Worker-Main-56/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[20Aug2024 21:11:06.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was turned to ice by Ice Dragon
+[20Aug2024 21:11:06.298] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:11:07.538] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:11:17.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported Nicckt_ to TheHatGeezer]
+[20Aug2024 21:11:43.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was turned to ice by Ice Dragon
+[20Aug2024 21:11:43.416] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:11:45.694] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:11:49.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Ice Dragon
+[20Aug2024 21:11:49.083] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:11:50.311] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:12:03.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHatGeezer: Teleported TheHatGeezer to Nicckt_]

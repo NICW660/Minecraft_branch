@@ -139,6 +139,7 @@
       "specialmobs:gatlingskeleton": "2024-08-20 20:51:47 +0000",
       "specialmobs:strayskeleton": "2024-08-20 12:10:55 +0000",
       "specialmobs:hungrydrowned": "2024-08-20 20:43:40 +0000",
+      "specialmobs:plaguezombie": "2024-08-20 21:07:06 +0000",
       "specialmobs:poisonskeleton": "2024-08-20 20:51:09 +0000",
       "specialmobs:watercavespider": "2024-08-20 20:43:24 +0000",
       "specialmobs:zombie": "2024-08-20 20:53:30 +0000",
@@ -227,6 +228,12 @@
     },
     "done": true
   },
+  "rats:all_hats": {
+    "criteria": {
+      "has_archeologist_hat": "2024-08-20 21:05:41 +0000"
+    },
+    "done": false
+  },
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "ghoul": "2024-08-20 20:45:17 +0000"
@@ -266,6 +273,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_cod": "2024-08-20 20:44:01 +0000",
+      "pumpkin_pie": "2024-08-20 21:05:32 +0000",
       "bread": "2024-08-20 20:22:42 +0000",
       "rotten_flesh": "2024-08-20 20:45:30 +0000"
     },

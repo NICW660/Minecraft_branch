@@ -13522,3 +13522,208 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Aug2024 21:01:48.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
 [20Aug2024 21:01:49.577] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
 [20Aug2024 21:01:53.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported Nicckt_ to TheHatGeezer]
+[20Aug2024 21:02:15.571] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Aug2024 21:02:15.571] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[20Aug2024 21:02:15.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2024 21:02:15.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Aug2024 21:02:18.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Zombie
+[20Aug2024 21:02:18.522] [Server thread/DEBUG] [tombstone/]: A new grave of the player TheHatGeezer was created at position [x:704, y:99, z:73, dim:minecraft:overworld]
+[20Aug2024 21:02:18.535] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:02:20.076] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:02:22.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHatGeezer: Teleported TheHatGeezer to Nicckt_]
+[20Aug2024 21:02:49.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Zombie
+[20Aug2024 21:02:49.956] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nicckt_ was created at position [x:699, y:93, z:55, dim:minecraft:overworld]
+[20Aug2024 21:02:49.975] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:02:51.174] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:02:55.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Zombie
+[20Aug2024 21:02:55.595] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:02:57.148] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:03:09.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Zombie
+[20Aug2024 21:03:09.570] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:03:11.020] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:03:31.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Zombie
+[20Aug2024 21:03:31.026] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:03:32.314] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:03:36.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Zombie
+[20Aug2024 21:03:36.871] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:03:38.026] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:03:47.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Creative Mode]
+[20Aug2024 21:03:55.715] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:03:56.271] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:03:56.568] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:04:06.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Survival Mode]
+[20Aug2024 21:04:26.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHatGeezer: Set own game mode to Creative Mode]
+[20Aug2024 21:05:17.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has completed the challenge [Ancient Fishing Rod]
+[20Aug2024 21:05:17.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [A Time for Misadventure]
+[20Aug2024 21:05:17.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has reached the goal [Enchanted for Misadventure]
+[20Aug2024 21:05:49.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Zombie
+[20Aug2024 21:05:49.869] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nicckt_ was created at position [x:702, y:93, z:57, dim:minecraft:overworld]
+[20Aug2024 21:05:49.874] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:05:51.136] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:06:43.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHatGeezer: Set own game mode to Survival Mode]
+[20Aug2024 21:06:59.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:07:15.593] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Aug2024 21:07:15.593] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[20Aug2024 21:07:15.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2024 21:07:15.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Aug2024 21:07:27.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Zombie
+[20Aug2024 21:07:27.555] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nicckt_ was created at position [x:704, y:93, z:71, dim:minecraft:overworld]
+[20Aug2024 21:07:27.580] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:07:28.776] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:07:43.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [Ashes 'n Bones]
+[20Aug2024 21:07:49.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Rat Ghost
+[20Aug2024 21:07:49.325] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:07:53.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Spectator Mode]
+[20Aug2024 21:07:56.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [The Most Useful Key]
+[20Aug2024 21:07:56.748] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:08:04.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has reached the goal [A Fast Comeback]
+[20Aug2024 21:08:07.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has reached the goal [Easy Opening]
+[20Aug2024 21:08:14.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Zombie
+[20Aug2024 21:08:14.710] [Server thread/DEBUG] [tombstone/]: A new grave of the player TheHatGeezer was created at position [x:702, y:99, z:71, dim:minecraft:overworld]
+[20Aug2024 21:08:14.739] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:08:16.269] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:08:16.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Survival Mode]
+[20Aug2024 21:08:25.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported TheHatGeezer to Nicckt_]
+[20Aug2024 21:08:46.081] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:08:55.292] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[20Aug2024 21:09:17.884] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[20Aug2024 21:09:57.652] [Worker-Main-57/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[20Aug2024 21:09:57.653] [Worker-Main-57/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[20Aug2024 21:09:57.654] [Worker-Main-57/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[20Aug2024 21:09:57.654] [Worker-Main-57/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[20Aug2024 21:09:59.789] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[20Aug2024 21:09:59.792] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[20Aug2024 21:09:59.792] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[20Aug2024 21:09:59.793] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[20Aug2024 21:09:59.793] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[20Aug2024 21:10:19.656] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:10:21.241] [Worker-Main-56/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[20Aug2024 21:10:25.240] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-36, z=208}
+[20Aug2024 21:10:25.244] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1139, y=-36, z=221}
+[20Aug2024 21:10:25.245] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1138, y=-36, z=216}
+[20Aug2024 21:10:25.245] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1150, y=-36, z=222}
+[20Aug2024 21:10:25.389] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1150, y=-36, z=222}
+[20Aug2024 21:10:25.431] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-36, z=208}
+[20Aug2024 21:10:25.834] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-36, z=208}
+[20Aug2024 21:10:30.764] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1179, y=-36, z=166}
+[20Aug2024 21:10:30.791] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1179, y=-36, z=166}
+[20Aug2024 21:10:30.985] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-36, z=208}
+[20Aug2024 21:10:31.016] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-36, z=208}
+[20Aug2024 21:10:31.021] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1171, y=-36, z=215}
+[20Aug2024 21:10:31.022] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1139, y=-36, z=221}
+[20Aug2024 21:10:31.023] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1159, y=-36, z=214}
+[20Aug2024 21:10:31.051] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-36, z=208}
+[20Aug2024 21:10:31.229] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1168, y=-36, z=224}
+[20Aug2024 21:10:33.200] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1180, y=-36, z=149}
+[20Aug2024 21:10:33.201] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1179, y=-36, z=166}
+[20Aug2024 21:10:33.202] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1180, y=-36, z=131}
+[20Aug2024 21:10:33.202] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1193, y=-23, z=159}
+[20Aug2024 21:10:33.203] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1193, y=-23, z=144}
+[20Aug2024 21:10:33.235] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1178, y=-36, z=179}
+[20Aug2024 21:10:33.236] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1180, y=-36, z=149}
+[20Aug2024 21:10:33.236] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1179, y=-36, z=166}
+[20Aug2024 21:10:33.448] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-36, z=208}
+[20Aug2024 21:10:33.461] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1178, y=-36, z=179}
+[20Aug2024 21:10:33.486] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-36, z=208}
+[20Aug2024 21:10:33.549] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-36, z=208}
+[20Aug2024 21:10:33.553] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1172, y=-36, z=209}
+[20Aug2024 21:10:33.553] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1171, y=-36, z=215}
+[20Aug2024 21:10:33.554] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1159, y=-36, z=214}
+[20Aug2024 21:10:33.586] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1180, y=-36, z=131}
+[20Aug2024 21:10:33.586] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1179, y=-36, z=141}
+[20Aug2024 21:10:33.587] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1193, y=-23, z=144}
+[20Aug2024 21:10:33.977] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1193, y=-23, z=123}
+[20Aug2024 21:10:34.026] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1168, y=-36, z=224}
+[20Aug2024 21:10:34.548] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1191, y=-23, z=110}
+[20Aug2024 21:10:36.226] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1198, y=-23, z=130}
+[20Aug2024 21:10:36.226] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1193, y=-23, z=123}
+[20Aug2024 21:10:36.227] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1192, y=-23, z=98}
+[20Aug2024 21:10:36.227] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1199, y=-23, z=114}
+[20Aug2024 21:10:36.290] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1180, y=-36, z=131}
+[20Aug2024 21:10:36.290] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1198, y=-23, z=148}
+[20Aug2024 21:10:36.290] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1185, y=-36, z=128}
+[20Aug2024 21:10:36.292] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1199, y=-23, z=132}
+[20Aug2024 21:10:36.292] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1193, y=-23, z=144}
+[20Aug2024 21:10:36.293] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1198, y=-23, z=130}
+[20Aug2024 21:10:36.486] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1192, y=-23, z=98}
+[20Aug2024 21:10:36.487] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1191, y=-23, z=110}
+[20Aug2024 21:10:36.626] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1180, y=-36, z=149}
+[20Aug2024 21:10:36.626] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1198, y=-23, z=166}
+[20Aug2024 21:10:36.627] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1180, y=-36, z=131}
+[20Aug2024 21:10:36.627] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1185, y=-36, z=157}
+[20Aug2024 21:10:36.627] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1199, y=-23, z=149}
+[20Aug2024 21:10:36.627] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1193, y=-23, z=159}
+[20Aug2024 21:10:36.628] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1198, y=-23, z=148}
+[20Aug2024 21:10:36.628] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1185, y=-36, z=128}
+[20Aug2024 21:10:36.629] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1193, y=-23, z=144}
+[20Aug2024 21:10:36.940] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1178, y=-36, z=179}
+[20Aug2024 21:10:36.940] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-25, z=167}
+[20Aug2024 21:10:36.941] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1180, y=-36, z=149}
+[20Aug2024 21:10:36.941] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1198, y=-23, z=166}
+[20Aug2024 21:10:36.942] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1185, y=-36, z=157}
+[20Aug2024 21:10:36.990] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-36, z=208}
+[20Aug2024 21:10:36.994] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1178, y=-36, z=179}
+[20Aug2024 21:10:36.994] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-25, z=167}
+[20Aug2024 21:10:37.694] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-36, z=208}
+[20Aug2024 21:10:37.697] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1172, y=-36, z=209}
+[20Aug2024 21:10:37.728] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-36, z=208}
+[20Aug2024 21:10:38.923] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:10:43.825] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:10:45.244] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:10:54.388] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1192, y=-23, z=98}
+[20Aug2024 21:10:54.388] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1201, y=-23, z=99}
+[20Aug2024 21:10:54.608] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1192, y=-23, z=98}
+[20Aug2024 21:10:54.608] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1199, y=-23, z=114}
+[20Aug2024 21:10:54.733] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1185, y=-36, z=128}
+[20Aug2024 21:10:54.734] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1199, y=-23, z=132}
+[20Aug2024 21:10:54.940] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-36, z=208}
+[20Aug2024 21:10:54.943] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-25, z=167}
+[20Aug2024 21:10:54.944] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1201, y=-36, z=204}
+[20Aug2024 21:10:54.944] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1217, y=-23, z=180}
+[20Aug2024 21:10:54.944] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1212, y=-23, z=181}
+[20Aug2024 21:10:55.133] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-36, z=208}
+[20Aug2024 21:10:55.136] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1213, y=-36, z=222}
+[20Aug2024 21:10:55.137] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1208, y=-36, z=223}
+[20Aug2024 21:10:55.137] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1214, y=-36, z=212}
+[20Aug2024 21:10:55.169] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-36, z=208}
+[20Aug2024 21:10:55.172] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1201, y=-36, z=204}
+[20Aug2024 21:10:55.173] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1213, y=-36, z=222}
+[20Aug2024 21:10:55.738] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1199, y=-23, z=149}
+[20Aug2024 21:10:55.739] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1185, y=-36, z=128}
+[20Aug2024 21:10:55.739] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1205, y=-23, z=162}
+[20Aug2024 21:10:55.773] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1200, y=-25, z=167}
+[20Aug2024 21:10:55.773] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1205, y=-23, z=162}
+[20Aug2024 21:10:55.773] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1217, y=-23, z=180}
+[20Aug2024 21:10:55.773] [Worker-Main-56/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1212, y=-23, z=181}
+[20Aug2024 21:10:59.738] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1214, y=-36, z=212}
+[20Aug2024 21:10:59.953] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1217, y=-23, z=180}
+[20Aug2024 21:10:59.954] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1218, y=-23, z=170}
+[20Aug2024 21:11:00.089] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1205, y=-23, z=162}
+[20Aug2024 21:11:00.089] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1217, y=-23, z=180}
+[20Aug2024 21:11:00.089] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1218, y=-23, z=170}
+[20Aug2024 21:11:00.092] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1229, y=-16, z=152}
+[20Aug2024 21:11:00.153] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1228, y=-16, z=162}
+[20Aug2024 21:11:00.209] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1205, y=-23, z=162}
+[20Aug2024 21:11:00.209] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1229, y=-16, z=152}
+[20Aug2024 21:11:00.210] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1228, y=-16, z=162}
+[20Aug2024 21:11:04.483] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1218, y=-23, z=170}
+[20Aug2024 21:11:05.367] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1218, y=-23, z=170}
+[20Aug2024 21:11:05.368] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1229, y=-16, z=152}
+[20Aug2024 21:11:05.369] [Worker-Main-57/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1234, y=-16, z=152}
+[20Aug2024 21:11:05.481] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1229, y=-16, z=152}
+[20Aug2024 21:11:05.482] [Worker-Main-55/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1234, y=-16, z=152}
+[20Aug2024 21:11:06.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was turned to ice by Ice Dragon
+[20Aug2024 21:11:06.266] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nicckt_ was created at position [x:1025, y:67, z:214, dim:minecraft:overworld]
+[20Aug2024 21:11:06.298] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:11:07.538] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:11:12.332] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:11:17.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported Nicckt_ to TheHatGeezer]
+[20Aug2024 21:11:43.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was turned to ice by Ice Dragon
+[20Aug2024 21:11:43.360] [Server thread/DEBUG] [tombstone/]: A new grave of the player TheHatGeezer was created at position [x:996, y:60, z:240, dim:minecraft:overworld]
+[20Aug2024 21:11:43.416] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 21:11:45.694] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 21:11:49.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Ice Dragon
+[20Aug2024 21:11:49.060] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nicckt_ was created at position [x:998, y:66, z:222, dim:minecraft:overworld]
+[20Aug2024 21:11:49.083] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:11:50.311] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:12:03.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHatGeezer: Teleported TheHatGeezer to Nicckt_]
