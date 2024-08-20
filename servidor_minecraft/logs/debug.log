@@ -13388,3 +13388,137 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Aug2024 20:41:33.486] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [20Aug2024 20:41:36.942] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [20Aug2024 20:41:38.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHatGeezer: Teleported TheHatGeezer to Nicckt_]
+[20Aug2024 20:41:46.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Ghost
+[20Aug2024 20:41:46.318] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nicckt_ was created at position [x:451, y:64, z:30, dim:minecraft:overworld]
+[20Aug2024 20:41:46.326] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 20:41:47.566] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 20:41:53.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [Who You Gonna Call?]
+[20Aug2024 20:42:04.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Ghost
+[20Aug2024 20:42:04.966] [Server thread/DEBUG] [tombstone/]: A new grave of the player TheHatGeezer was created at position [x:448, y:64, z:33, dim:minecraft:overworld]
+[20Aug2024 20:42:04.997] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 20:42:06.592] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 20:42:15.593] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Aug2024 20:42:15.593] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[20Aug2024 20:42:15.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2024 20:42:15.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Aug2024 20:42:21.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHatGeezer: Teleported TheHatGeezer to Nicckt_]
+[20Aug2024 20:42:57.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [Who You Gonna Call?]
+[20Aug2024 20:44:09.037] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:44:42.724] [Worker-Main-56/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[20Aug2024 20:44:53.215] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:44:57.189] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:44:59.978] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:45:09.196] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 20:45:19.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [Knowledge of Death]
+[20Aug2024 20:45:19.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [Ashes 'n Bones]
+[20Aug2024 20:45:42.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [Best Friends Forever]
+[20Aug2024 20:46:00.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has reached the goal [Grimm Start]
+[20Aug2024 20:46:19.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [Best Friends Forever]
+[20Aug2024 20:47:15.578] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Aug2024 20:47:15.579] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[20Aug2024 20:47:15.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2024 20:47:15.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Aug2024 20:47:30.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Skeleton
+[20Aug2024 20:47:30.281] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nicckt_ was created at position [x:710, y:73, z:63, dim:minecraft:overworld]
+[20Aug2024 20:47:30.291] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 20:47:31.547] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 20:47:31.752] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 20:47:42.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported Nicckt_ to TheHatGeezer]
+[20Aug2024 20:47:53.839] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[20Aug2024 20:48:18.432] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:48:19.222] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[20Aug2024 20:48:24.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [Acquire Hardware]
+[20Aug2024 20:48:48.844] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[20Aug2024 20:49:10.828] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:49:11.420] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[20Aug2024 20:49:19.827] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:49:21.225] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:49:26.317] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:49:29.324] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:49:30.373] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:49:31.474] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:49:32.525] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:49:35.890] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:50:10.373] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:50:11.430] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:50:12.480] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:50:15.322] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:50:58.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [Ice Bucket Challenge]
+[20Aug2024 20:51:34.519] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:51:36.619] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:52:15.570] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Aug2024 20:52:15.570] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[20Aug2024 20:52:15.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2024 20:52:15.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Aug2024 20:52:17.572] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:52:18.622] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:52:19.773] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:52:20.819] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:52:21.867] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:52:22.916] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:52:36.322] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:52:37.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 20:53:04.221] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:54:00.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was killed by Area Effect Cloud using magic
+[20Aug2024 20:54:00.523] [Server thread/DEBUG] [tombstone/]: A new grave of the player TheHatGeezer was created at position [x:702, y:89, z:52, dim:minecraft:overworld]
+[20Aug2024 20:54:00.528] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 20:54:04.233] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 20:54:08.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHatGeezer: Teleported TheHatGeezer to Nicckt_]
+[20Aug2024 20:55:09.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Zombie
+[20Aug2024 20:55:09.770] [Server thread/DEBUG] [tombstone/]: A new grave of the player TheHatGeezer was created at position [x:700, y:91, z:78, dim:minecraft:overworld]
+[20Aug2024 20:55:09.779] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 20:55:12.021] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 20:55:14.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHatGeezer: Teleported TheHatGeezer to Nicckt_]
+[20Aug2024 20:55:26.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Zombie
+[20Aug2024 20:55:26.778] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 20:55:29.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Zombie
+[20Aug2024 20:55:29.464] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nicckt_ was created at position [x:701, y:89, z:67, dim:minecraft:overworld]
+[20Aug2024 20:55:29.473] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 20:55:30.754] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 20:55:31.276] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 20:55:33.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported Nicckt_ to TheHatGeezer]
+[20Aug2024 20:55:54.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has reached the goal [Chain Death]
+[20Aug2024 20:55:54.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Zombie
+[20Aug2024 20:55:54.166] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nicckt_ was created at position [x:704, y:89, z:74, dim:minecraft:overworld]
+[20Aug2024 20:55:54.186] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 20:55:55.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHatGeezer: Teleported TheHatGeezer to Nicckt_]
+[20Aug2024 20:55:55.799] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 20:56:29.663] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:56:30.162] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:56:32.018] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:57:11.781] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:57:14.673] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 20:57:15.568] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Aug2024 20:57:15.568] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[20Aug2024 20:57:15.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Aug2024 20:57:15.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Aug2024 20:57:34.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer was slain by Zombie
+[20Aug2024 20:57:34.399] [Server thread/INFO] [tombstone/]: The player TheHatGeezer has successfully been saved
+[20Aug2024 20:57:35.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Creative Mode]
+[20Aug2024 20:57:35.987] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 20:57:39.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHatGeezer: Teleported TheHatGeezer to Nicckt_]
+[20Aug2024 20:58:46.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Survival Mode]
+[20Aug2024 20:59:30.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 20:59:55.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Zombie
+[20Aug2024 20:59:55.956] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nicckt_ was created at position [x:701, y:93, z:62, dim:minecraft:overworld]
+[20Aug2024 20:59:55.980] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 20:59:57.228] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:00:01.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported Nicckt_ to TheHatGeezer]
+[20Aug2024 21:00:43.899] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:00:45.142] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:00:48.843] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:00:49.888] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:00:51.400] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:00:52.444] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:00:53.691] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:01:26.891] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:01:27.944] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:01:29.503] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:01:30.533] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:01:31.540] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Aug2024 21:01:47.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was slain by Zombie
+[20Aug2024 21:01:47.917] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nicckt_ was created at position [x:700, y:93, z:61, dim:minecraft:overworld]
+[20Aug2024 21:01:47.930] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[20Aug2024 21:01:48.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20Aug2024 21:01:49.577] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 21:01:53.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported Nicckt_ to TheHatGeezer]
