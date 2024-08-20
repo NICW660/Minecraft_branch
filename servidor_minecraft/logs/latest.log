@@ -2238,3 +2238,112 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Aug2024 19:57:13.351] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
 [20Aug2024 20:02:13.351] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
 [20Aug2024 20:07:13.350] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[20Aug2024 20:12:03.052] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Nicckt_ is e5983cef-686e-45c6-9789-2c379507f6f8
+[20Aug2024 20:12:03.178] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[20Aug2024 20:12:03.218] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[20Aug2024 20:12:03.219] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[20Aug2024 20:12:03.274] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[20Aug2024 20:12:03.331] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[20Aug2024 20:12:03.387] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[20Aug2024 20:12:03.444] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[20Aug2024 20:12:03.503] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[20Aug2024 20:12:03.559] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[20Aug2024 20:12:03.615] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[20Aug2024 20:12:03.669] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[20Aug2024 20:12:03.671] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[20Aug2024 20:12:04.008] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[20Aug2024 20:12:04.051] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[20Aug2024 20:12:04.052] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[20Aug2024 20:12:04.053] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[20Aug2024 20:12:13.356] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[20Aug2024 20:12:24.752] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[20Aug2024 20:12:24.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nicckt_[/127.12.192.191:41149] logged in with entity id 1454 at (285.17066664871936, 81.87947255300556, -4.404583848017041)
+[20Aug2024 20:12:25.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ joined the game
+[20Aug2024 20:12:27.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nicckt_ lost connection: Disconnected
+[20Aug2024 20:12:27.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ left the game
+[20Aug2024 20:12:53.399] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Nicckt_ is e5983cef-686e-45c6-9789-2c379507f6f8
+[20Aug2024 20:12:53.473] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[20Aug2024 20:12:53.521] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[20Aug2024 20:12:53.579] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[20Aug2024 20:12:53.637] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[20Aug2024 20:12:53.695] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[20Aug2024 20:12:53.754] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[20Aug2024 20:12:53.812] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[20Aug2024 20:12:53.870] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[20Aug2024 20:12:53.871] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[20Aug2024 20:12:53.930] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[20Aug2024 20:12:53.989] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[20Aug2024 20:12:54.047] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[20Aug2024 20:12:54.206] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[20Aug2024 20:12:54.246] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[20Aug2024 20:12:54.247] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[20Aug2024 20:12:54.248] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[20Aug2024 20:12:54.809] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4235567a[id=e5983cef-686e-45c6-9789-2c379507f6f8,name=Nicckt_,properties={textures=[com.mojang.authlib.properties.Property@79d43d86]},legacy=false] (/127.12.192.191:54039) lost connection: Disconnected
+[20Aug2024 20:15:59.136] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Nicckt_ is e5983cef-686e-45c6-9789-2c379507f6f8
+[20Aug2024 20:15:59.262] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[20Aug2024 20:15:59.314] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[20Aug2024 20:15:59.316] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[20Aug2024 20:15:59.375] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[20Aug2024 20:15:59.435] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[20Aug2024 20:15:59.495] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[20Aug2024 20:15:59.557] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[20Aug2024 20:15:59.618] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[20Aug2024 20:15:59.618] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[20Aug2024 20:15:59.677] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[20Aug2024 20:15:59.737] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[20Aug2024 20:15:59.796] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[20Aug2024 20:16:00.048] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[20Aug2024 20:16:00.055] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[20Aug2024 20:16:00.099] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[20Aug2024 20:16:00.099] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[20Aug2024 20:16:20.587] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nicckt_[/127.12.192.191:57229] logged in with entity id 1531 at (285.17066664871936, 81.87947255300556, -4.404583848017041)
+[20Aug2024 20:16:20.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ joined the game
+[20Aug2024 20:16:55.211] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[20Aug2024 20:17:13.389] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[20Aug2024 20:17:45.742] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:17:45.768] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:17:45.832] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:17:45.832] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:17:45.833] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:17:54.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: The difficulty has been set to Peaceful]
+[20Aug2024 20:17:58.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: The difficulty has been set to Hard]
+[20Aug2024 20:18:20.277] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheHatGeezer is 065db8d8-3bbe-4ed6-85b2-9a62accfb3c9
+[20Aug2024 20:18:20.393] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[20Aug2024 20:18:20.445] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[20Aug2024 20:18:20.495] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[20Aug2024 20:18:20.544] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[20Aug2024 20:18:20.594] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[20Aug2024 20:18:20.643] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[20Aug2024 20:18:20.694] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[20Aug2024 20:18:20.744] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[20Aug2024 20:18:20.794] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[20Aug2024 20:18:20.844] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[20Aug2024 20:18:20.894] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[20Aug2024 20:18:20.942] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[20Aug2024 20:18:21.106] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[20Aug2024 20:18:21.115] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[20Aug2024 20:18:21.116] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[20Aug2024 20:18:21.165] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[20Aug2024 20:18:30.611] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheHatGeezer[/127.185.207.61:48759] logged in with entity id 2405 at (293.5, 76.0, -21.5)
+[20Aug2024 20:18:30.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer joined the game
+[20Aug2024 20:18:30.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [Ice and Fire]
+[20Aug2024 20:18:43.583] [Server thread/INFO] [do_a_barrel_roll/]: Client of TheHatGeezer accepted server config.
+[20Aug2024 20:19:31.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHatGeezer has made the advancement [Alex's Mobs]
+[20Aug2024 20:19:56.505] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:19:56.509] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:19:56.512] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:19:56.517] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:19:56.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nicckt_ moved too quickly! 8.08375219922965,-0.9031272476744903,-5.954412283239973
+[20Aug2024 20:19:56.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2188ms or 43 ticks behind
+[20Aug2024 20:19:57.059] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:19:57.188] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:19:57.336] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:20:06.960] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:20:07.104] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:20:07.208] [Worker-Main-57/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:20:15.618] [Worker-Main-56/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:20:15.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nicckt_ moved too quickly! -2.8219497362408106,-0.630385922154673,10.068421027110674
+[20Aug2024 20:20:15.858] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:20:15.861] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Aug2024 20:20:30.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Survival Mode]
+[20Aug2024 20:21:05.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [Acquire Hardware]
