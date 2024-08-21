@@ -3640,3 +3640,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Aug2024 15:45:24.339] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=650, y=68, z=-585}
 [21Aug2024 15:45:24.340] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
 [21Aug2024 15:45:31.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21Aug2024 15:47:55.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [Ice Bucket Challenge]
+[21Aug2024 15:48:17.433] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[21Aug2024 15:48:27.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [We Need to Go Deeper]
+[21Aug2024 15:48:27.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [Incendium]
+[21Aug2024 15:48:27.616] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[21Aug2024 15:48:27.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6095ms or 121 ticks behind
+[21Aug2024 15:48:49.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [A Terrible Fortress]
+[21Aug2024 15:49:44.656] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:eye_of_flame_located (cataclysm:burning_arena) took 781 ms
+[21Aug2024 15:49:52.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported Nicckt_ to 1328.500000, 75.658049, -3743.500000]
+[21Aug2024 15:49:52.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2980ms or 59 ticks behind
+[21Aug2024 15:49:53.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [A Burning Arena]
+[21Aug2024 15:49:54.328] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[21Aug2024 15:51:00.146] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:blocked_basalt (cataclysm:burning_arena) took 0 ms
+[21Aug2024 15:51:04.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported Nicckt_ to 1328.500000, 66.000000, -3743.500000]
+[21Aug2024 15:51:52.083] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:berserker_spawn (minecraft:fortress) took 0 ms
+[21Aug2024 15:51:59.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported Nicckt_ to 1136.500000, 73.532845, -4015.500000]
+[21Aug2024 15:51:59.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[21Aug2024 15:52:13.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [Pipe Dream]
+[21Aug2024 15:52:54.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Spectator Mode]
+[21Aug2024 15:53:20.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported Nicckt_ to 1136.500000, 85.171946, -4015.500000]
+[21Aug2024 15:53:28.526] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[21Aug2024 15:53:33.300] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:berserker_spawn (minecraft:fortress) took 0 ms
+[21Aug2024 15:53:37.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Teleported Nicckt_ to 1136.500000, 63.785667, -4015.500000]
