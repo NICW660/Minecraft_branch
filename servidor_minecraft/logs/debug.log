@@ -13629,3 +13629,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Aug2024 17:09:13.804] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Nicckt_
 [21Aug2024 17:09:13.805] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nicckt_
 [21Aug2024 17:09:41.326] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[21Aug2024 17:09:57.959] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[21Aug2024 17:09:57.959] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[21Aug2024 17:09:58.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Aug2024 17:09:58.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Aug2024 17:12:15.135] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[21Aug2024 17:12:15.136] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[21Aug2024 17:12:15.136] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[21Aug2024 17:12:15.136] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[21Aug2024 17:12:21.732] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[21Aug2024 17:12:21.733] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[21Aug2024 17:12:21.734] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[21Aug2024 17:12:21.734] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[21Aug2024 17:14:12.014] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[21Aug2024 17:14:16.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nicckt_ lost connection: Disconnected
+[21Aug2024 17:14:16.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ left the game
+[21Aug2024 17:14:16.231] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Nicckt_
+[21Aug2024 17:14:16.231] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nicckt_
+[21Aug2024 17:14:57.920] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[21Aug2024 17:14:57.921] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[21Aug2024 17:14:57.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Aug2024 17:14:57.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
