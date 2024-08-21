@@ -3548,3 +3548,95 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Aug2024 15:28:15.420] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [21Aug2024 15:28:18.189] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Found Pupfish chunk at -321 ~ -2000 after 28 tries
 [21Aug2024 15:33:15.376] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[21Aug2024 15:38:15.374] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[21Aug2024 15:38:38.386] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Nicckt_ is e5983cef-686e-45c6-9789-2c379507f6f8
+[21Aug2024 15:38:38.530] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[21Aug2024 15:38:38.584] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[21Aug2024 15:38:38.643] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[21Aug2024 15:38:38.675] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[21Aug2024 15:38:38.721] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[21Aug2024 15:38:38.763] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[21Aug2024 15:38:38.822] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[21Aug2024 15:38:38.881] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[21Aug2024 15:38:38.941] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[21Aug2024 15:38:38.973] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[21Aug2024 15:38:39.017] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[21Aug2024 15:38:39.059] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[21Aug2024 15:38:39.324] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[21Aug2024 15:38:39.329] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[21Aug2024 15:38:39.373] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[21Aug2024 15:38:39.374] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[21Aug2024 15:38:58.324] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[21Aug2024 15:38:58.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nicckt_[/127.12.192.191:44981] logged in with entity id 1460 at (0.5, 64.0, 2.5)
+[21Aug2024 15:38:58.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ joined the game
+[21Aug2024 15:38:58.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [Ice and Fire]
+[21Aug2024 15:39:02.244] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[21Aug2024 15:39:02.244] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[21Aug2024 15:39:02.245] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[21Aug2024 15:39:09.055] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[21Aug2024 15:39:09.056] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[21Aug2024 15:39:09.062] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[21Aug2024 15:39:09.062] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[21Aug2024 15:39:28.737] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[21Aug2024 15:40:59.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [Monster Hunter]
+[21Aug2024 15:41:00.428] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[21Aug2024 15:41:31.302] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[21Aug2024 15:41:31.303] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[21Aug2024 15:41:31.303] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[21Aug2024 15:41:31.303] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[21Aug2024 15:41:43.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ was doomed to fall by Minotaurus
+[21Aug2024 15:41:43.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [Your First Grave]
+[21Aug2024 15:41:43.539] [Server thread/INFO] [tombstone/]: The player Nicckt_ has successfully been saved
+[21Aug2024 15:41:44.753] [Server thread/INFO] [do_a_barrel_roll/]: Client of Nicckt_ accepted server config.
+[21Aug2024 15:41:52.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has reached the goal [Here They Come]
+[21Aug2024 15:42:17.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Creative Mode]
+[21Aug2024 15:42:28.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Spectator Mode]
+[21Aug2024 15:42:54.210] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[21Aug2024 15:42:54.210] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[21Aug2024 15:42:54.211] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[21Aug2024 15:42:54.211] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[21Aug2024 15:43:15.442] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving events
+[21Aug2024 15:43:54.013] [Worker-Main-18/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:mediterranean_village/mobs/villager_priest which is being called from not a SinglePoolElement class
+[21Aug2024 15:44:14.166] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=346, y=66, z=-601}
+[21Aug2024 15:44:14.167] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=346, y=66, z=-601}
+[21Aug2024 15:44:14.171] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[21Aug2024 15:44:14.194] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=346, y=66, z=-616}
+[21Aug2024 15:44:14.195] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=346, y=66, z=-616}
+[21Aug2024 15:44:14.196] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[21Aug2024 15:44:16.145] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[21Aug2024 15:44:16.146] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[21Aug2024 15:44:16.147] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[21Aug2024 15:44:16.148] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[21Aug2024 15:44:16.149] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[21Aug2024 15:44:16.149] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[21Aug2024 15:44:16.150] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[21Aug2024 15:44:16.150] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[21Aug2024 15:44:16.150] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[21Aug2024 15:44:16.150] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[21Aug2024 15:44:21.609] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[21Aug2024 15:44:21.610] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[21Aug2024 15:44:21.610] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[21Aug2024 15:44:21.610] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[21Aug2024 15:44:21.611] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[21Aug2024 15:44:21.611] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[21Aug2024 15:44:21.611] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[21Aug2024 15:44:21.612] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[21Aug2024 15:44:32.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nicckt_ moved too quickly! -1.5274552882630132,-2.078246482582088,-10.257841023667197
+[21Aug2024 15:44:42.777] [Worker-Main-18/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:mediterranean_village/mobs/villager_priest which is being called from not a SinglePoolElement class
+[21Aug2024 15:44:44.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nicckt_ has made the advancement [Mediterranean Village]
+[21Aug2024 15:44:48.581] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[21Aug2024 15:44:48.581] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[21Aug2024 15:44:48.581] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[21Aug2024 15:44:48.581] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[21Aug2024 15:45:10.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nicckt_: Set own game mode to Creative Mode]
+[21Aug2024 15:45:17.482] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[21Aug2024 15:45:17.482] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[21Aug2024 15:45:17.483] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[21Aug2024 15:45:17.483] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[21Aug2024 15:45:18.915] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=650, y=68, z=-600}
+[21Aug2024 15:45:18.917] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=650, y=68, z=-600}
+[21Aug2024 15:45:18.925] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[21Aug2024 15:45:24.338] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=650, y=68, z=-585}
+[21Aug2024 15:45:24.339] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=650, y=68, z=-585}
+[21Aug2024 15:45:24.340] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[21Aug2024 15:45:31.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
